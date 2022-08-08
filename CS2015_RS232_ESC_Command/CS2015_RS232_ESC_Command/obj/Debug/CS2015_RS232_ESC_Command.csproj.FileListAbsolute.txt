@@ -1,0 +1,9 @@
+C:\Users\devel\Desktop\CS2015_RS232_ESC_Command\CS2015_RS232_ESC_Command\bin\Debug\CS2015_RS232_ESC_Command.exe.config
+C:\Users\devel\Desktop\CS2015_RS232_ESC_Command\CS2015_RS232_ESC_Command\bin\Debug\CS2015_RS232_ESC_Command.exe
+C:\Users\devel\Desktop\CS2015_RS232_ESC_Command\CS2015_RS232_ESC_Command\bin\Debug\CS2015_RS232_ESC_Command.pdb
+C:\Users\devel\Desktop\CS2015_RS232_ESC_Command\CS2015_RS232_ESC_Command\obj\Debug\CS2015_RS232_ESC_Command.csprojResolveAssemblyReference.cache
+C:\Users\devel\Desktop\CS2015_RS232_ESC_Command\CS2015_RS232_ESC_Command\obj\Debug\CS2015_RS232_ESC_Command.Form1.resources
+C:\Users\devel\Desktop\CS2015_RS232_ESC_Command\CS2015_RS232_ESC_Command\obj\Debug\CS2015_RS232_ESC_Command.Properties.Resources.resources
+C:\Users\devel\Desktop\CS2015_RS232_ESC_Command\CS2015_RS232_ESC_Command\obj\Debug\CS2015_RS232_ESC_Command.csproj.GenerateResource.Cache
+C:\Users\devel\Desktop\CS2015_RS232_ESC_Command\CS2015_RS232_ESC_Command\obj\Debug\CS2015_RS232_ESC_Command.exe
+C:\Users\devel\Desktop\CS2015_RS232_ESC_Command\CS2015_RS232_ESC_Command\obj\Debug\CS2015_RS232_ESC_Command.pdb
